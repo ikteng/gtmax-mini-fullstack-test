@@ -1,1 +1,1 @@
-# gtmax-mini-fullstack-test
+# GTMax – Mini Fullstack Coding Test
