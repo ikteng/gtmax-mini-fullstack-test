@@ -7,6 +7,7 @@ Build a small fullstack web app that allows users to manage a list of items (e.g
 2. Run both backend and frontend: ./run.sh (Git Bash on Windows)
 
 ## Folder Structure
+```
 gtmax-mini-fullstack-test/
 ├─ backend/ # Laravel project
 │ ├─ app/Models/Item.php
@@ -17,6 +18,7 @@ gtmax-mini-fullstack-test/
 │ ├─ components/ItemTable.vue # Table with all of the items
 │ └─ App.vue # Main page
 └─ run.sh # Script to start both frontend and backend
+```
 
 - Backend: http://127.0.0.1:8000
 - Frontend: http://localhost:5173 (Vite default)
@@ -40,3 +42,4 @@ gtmax-mini-fullstack-test/
  - add spinner animation for loading state
  - add unit tests for both frontend and backend
  - add confirmation modal for deleteing items
+ - add edit button that allow user to edit the name of the item
