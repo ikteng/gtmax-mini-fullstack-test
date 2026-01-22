@@ -1,0 +1,1 @@
+# gtmax-mini-fullstack-test
